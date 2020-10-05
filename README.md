@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-pip install https://github.com/dforest/openapi-redoc-schema-def
+pip install git+https://github.com/dforest/openapi-redoc-schema-def
 ```
 
 ### Usage
