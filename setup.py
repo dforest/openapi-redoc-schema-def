@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='openapi-redoc-schema-def',
-    version='0.1.0',
+    version='0.1.1',
     install_requres=['PyYAML'],
     packages=["openapi_redoc_schema_def"],
     entry_points={
